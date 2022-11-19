@@ -1,7 +1,4 @@
-﻿
-**MOBILE APP PRIVACY POLICY TEMPLATE**
-
-# **The Thousand Doors**
+﻿# **The Thousand Doors**
 Last updated November 15, 2022
 
 **Space Sheep Team** (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).**   Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. 

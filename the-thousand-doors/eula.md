@@ -1,6 +1,4 @@
-﻿Sample EULA Template
-
-![](Aspose.Words.c604c4c0-b949-47bf-be87-a900ddd6ee5c.001.png)
+﻿![](Aspose.Words.c604c4c0-b949-47bf-be87-a900ddd6ee5c.001.png)
 # End-User License Agreement ("Agreement")
 
 Our EULA was last updated on 15/11/2022.
